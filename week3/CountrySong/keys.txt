@@ -1,4 +1,0 @@
-Bruteforcing keys...
-16581375 entries in table
-No match found.
---- 262.8549020290375 seconds ---
