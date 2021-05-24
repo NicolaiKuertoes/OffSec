@@ -1,0 +1,2 @@
+URL: http://hackfest.redrocket.club:31340/index.php
+PHPSESSID: 3ff231c5946d0433286edabd7020bbb9
